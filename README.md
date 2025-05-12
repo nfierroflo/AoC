@@ -1,5 +1,6 @@
 # Advent of Code Solutions
 
+
 This repository contains solutions for 4 days.
 
 ## Day 1: Distance and Similarity
@@ -17,3 +18,9 @@ This repository contains solutions for 4 days.
 ## Day 4: XMAS Pattern Detection
 - **Part 1**: Count occurrences of "XMAS" in all 8 directions in grid
 - **Part 2**: Count special "X" patterns formed by "MAS"/"SAM" diagonals
+
+## Running the Solutions
+To run all solutions, execute the solutions.bat file:
+
+## Requirements
+- Python 3.6 or higher (no external libraries required)
